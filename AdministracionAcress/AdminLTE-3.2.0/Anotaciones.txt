@@ -1,0 +1,3 @@
+Paginas:
+pages/gallery #usar de plantilla e ir agregando las secciones necesarias ahi
+pages/projects #usar para la pagina de todos los proyectos
